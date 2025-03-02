@@ -10,5 +10,5 @@ https://github.com/mariusavram123
 ##Projects:
 
 ```
-TODO
+Please see the index file for more information.
 ```
