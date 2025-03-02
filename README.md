@@ -7,8 +7,8 @@ My Github website
 https://github.com/mariusavram123
 ```
 
-##Projects:
+##More information:
 
 ```
-Please see the index file for more information.
+https://mariusavram123.github.io/
 ```
